@@ -31,39 +31,39 @@ A Cross Platform - Web, Android & iOS App multiplayer doodling & guessing game.
   
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+- To run this project, you will need to add the following environment variables to your .env file
 
-`MONGODB_URL`: `Your MongoDB URI Generated from MongoDB Atlas`
+- `MONGODB_URL`: `Your MongoDB URI Generated from MongoDB Atlas`
 
-Make sure to replace <yourip> in `lib/screens/paint_screen.dart` with your IP address.
+- Make sure to replace <yourip> in `lib/screens/paint_screen.dart` with your IP address.
 
   
 ## Run Locally
 
-Clone the project
+- Clone the project
 
 
-  git clone https://github.com/RivaanRanawat/cuadro
+     - git clone https://github.com/RivaanRanawat/cuadro
 
 
-Go to the project directory
+- Go to the project directory
 
-cd cuadro
-
-
-Install dependencies (Client Side)
-
-flutter pub get
+     - cd cuadro
 
 
-Install dependencies (Server Side)
+- Install dependencies (Client Side)
 
-cd server && npm install
+     - flutter pub get
 
 
-Start the server
+- Install dependencies (Server Side)
 
-npm run dev
+- cd server && npm install
+
+
+- Start the server
+
+    - npm run dev
 
 
  
