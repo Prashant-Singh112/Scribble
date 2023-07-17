@@ -29,22 +29,6 @@ A Cross Platform - Web, Android & iOS App multiplayer doodling & guessing game.
 - Calculating Score
 - LeaderBoard
 
-
-  
-## Screenshots
-
-### Mobile
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/MainScreen.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/CreateRoomScreen.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/JoinRoomScreen.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/WaitingLobbyScreen.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/DrawerTurn.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/RoundComplete.png" width="200" />  <img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/iphone/ScoreBoard.png" width="200" />
-
-
-### Web
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/MainScreen.png"/>
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/CreateRoomScreen.png"/>
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/JoinRoomScreen.png"/>
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/WaitingLobbyScreen.png"/>
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/WordGuessScreen.png"/>
-<img src="https://github.com/RivaanRanawat/cuadro/blob/master/screenshots/web/ScoreBoard.png"/>
-
   
 ## Environment Variables
 
@@ -60,7 +44,7 @@ Make sure to replace <yourip> in `lib/screens/paint_screen.dart` with your IP ad
 Clone the project
 
 ```bash
-  git clone https://github.com/RivaanRanawat/cuadro
+  git clone https://github.com/PrashantSingh112/cuadro
 ```
 
 Go to the project directory
