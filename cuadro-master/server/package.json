@@ -1,5 +1,5 @@
 {
-  "name": "cuadro",
+  "name": "scribble",
   "version": "1.0.0",
   "description": "A new Flutter project.",
   "main": "index.js",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RivaanRanawat/cuadro.git"
+    "url": "git+https://github.com/Prashant-Singh112/cuadro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RivaanRanawat/cuadro/issues"
+    "url": "https://github.com/Prashant-Singh112/cuadro/issues"
   },
-  "homepage": "https://github.com/RivaanRanawat/cuadro#readme",
+  "homepage": "https://github.com/Prashant-Singh112/cuadro#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^10.0.0",
