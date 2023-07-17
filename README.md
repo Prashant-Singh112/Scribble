@@ -43,7 +43,7 @@ A Cross Platform - Web, Android & iOS App multiplayer doodling & guessing game.
 - Clone the project
 
 
-     - git clone https://github.com/RivaanRanawat/cuadro
+     - git clone https://github.com/PrashantSingh112/cuadro
 
 
 - Go to the project directory
