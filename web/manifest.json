@@ -1,6 +1,6 @@
 {
-    "name": "cuadro",
-    "short_name": "cuadro",
+    "name": "scribble",
+    "short_name": "scribble",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
